@@ -1,7 +1,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00fdb8&center=true&width=435&repeat=false&lines=%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22;%22I'm+tamish!%22;%22Welcome+to+my+profile!%22" alt="Hello it's tamish" />
-<a href="https://discord.com/users/1111132424844357692"><![face-memoji](https://github.com/mhatretamish/mhatretamish/assets/89688277/5cf70d44-23e1-4598-ab4e-80abd45e8ee7)
-  ></a>
+<a href="![face-memoji](https://github.com/mhatretamish/mhatretamish/assets/89688277/5cf70d44-23e1-4598-ab4e-80abd45e8ee7)
+"></a>
 
 My name is Tamish and I'm a Full Stack Developer. I'm from India, living in Mumbai.
 - This is the place where I opensource stuff and explore things
@@ -192,5 +192,3 @@ const tamish = {
 </div>
 <h2 align="center"></h2>
 
-![contributions](https://github.com/mhatretamish/mhatretamish/assets/89688277/c3b398a1-e117-486e-911e-bedb27fbb7ad)![face-memoji](https://github.com/mhatretamish/README.md/assets/89688277/5700bcb4-3943-43d4-8798-cd43fc2bb20a)
-![face-memoji](https://github.com/mhatretamish/README.md/assets/89688277/a2c426ce-7d9c-4609-9f35-33654b35de2a)
